@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class SearchProduct {
+public class SearchProductTest {
 
 	
 	private static final String ASSERT_ERRORASSERT_ERROR_MESSAGE = "Page title not matched or Problem in loading url page";
